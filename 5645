@@ -1,9 +1,10 @@
 #include<stdio.h>
 main()
 {
-int y,e,x;
+int y,e,x,z;
 scanf("%d", &x)
 y=pow(e,x);
-printf("otvet %d\n,y);
+z=y/2;
+printf("otvet %d\n,z);
 return(0);
 }
