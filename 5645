@@ -1,0 +1,9 @@
+#include<stdio.h>
+main()
+{
+int y,e,x;
+scanf("%d", &x)
+y=pow(e,x);
+printf("otvet %d\n,y);
+return(0);
+}
